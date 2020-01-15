@@ -1,5 +1,4 @@
 # Microservices & Spring Cloud
-Author: Craig Connell craig@solarsail.co.uk  
 NB: Based on Spring Boot 2.2.2 (e.g. dependency management)
 
 # 1. Definitions
